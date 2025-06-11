@@ -18,10 +18,8 @@ function sayHello($name) {
 	<body>
 		<?php 
 		
-		sayHello('remote world');
-			
-		phpinfo(); 
-			
-		?>
+		sayHello('JeongMinJae');?>
+		<h1><a href="./webapp/">Movie Web App으로 이동</a></h1>
+
 	</body>
 </html>
